@@ -23,7 +23,11 @@
 <br />
 
 ### Connect with me:
+<div>
+  <h3>🤝 Connect with me:</h3>
+  <h4>Telegram: <a href=https://t.me/kubist>@kubist</a></h4>                                                                                                     
+  <h4>E-Mail: <a href="mailto:dvkubist@gmail.com">dvkubist@gmail.com</a></h4>                                                                                       
+</div>
 
-[<img align="left" alt="ametist17" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-[telegram]: https://t.me/kubist
+
